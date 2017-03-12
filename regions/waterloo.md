@@ -35,5 +35,6 @@
 - Scrap metal
 - Toilets
 - Clothing
+- Body Part
 
 
