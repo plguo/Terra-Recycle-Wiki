@@ -2,4 +2,4 @@
 
 | Component | Recycle Category |
 | --- | --- |
-| Battery | E-waste |
+| Battery | Special |
