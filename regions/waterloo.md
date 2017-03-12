@@ -22,8 +22,7 @@
 - Juice Box
 - Metal Can
 - Milk Carton
-- Plastic (Hard)
-- Plastic Bags
+- Plastic
 
 ### Garbage
 
