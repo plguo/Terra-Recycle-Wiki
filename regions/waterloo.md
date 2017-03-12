@@ -22,10 +22,9 @@
 - Juice Box
 - Metal Can
 - Milk Carton
-- Plastic
 
 ### Garbage
-
+- Plastic
 
 ### Special Collection
 - Hazardous waste
