@@ -2,4 +2,5 @@
 
 | Component | Recycle Category |
 | --- | --- |
-| Arm | Body Part|
+| Arm | Body Part |
+| Organ | Body Part |
