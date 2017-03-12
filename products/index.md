@@ -1,8 +1,14 @@
 ## battery.md
 - Battery
 
+## bodyparts.md
+- Arm
+
 ## bottled-water.md
 - Bottled Water
+
+## chewing-gum.md
+- Excel Gum
 
 ## chips.md
 - Lays
@@ -13,5 +19,13 @@
 - Cheetos
 - Ruffles
 
-## chewing-gum.md
-- Excel Gum
+## clothing.md
+- Clothing
+
+## coffee-cup.md
+- Cup
+- Cover
+
+## food.md
+- Plant
+- Food
