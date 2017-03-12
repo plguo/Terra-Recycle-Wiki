@@ -4,3 +4,5 @@
 | --- | --- |
 | Bottle | Plastic |
 | Cap | Plastic |
+| Aquafina | Plastic |
+| Dasani | Plastic |
