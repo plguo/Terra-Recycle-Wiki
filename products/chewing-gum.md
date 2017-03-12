@@ -2,4 +2,4 @@
 
 | Component | Recycle Category |
 | --- | --- |
-| Package | Plastic |
+| Package | Paper |
