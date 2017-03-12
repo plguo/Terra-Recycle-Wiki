@@ -1,6 +1,6 @@
 # Waterloo
 
-### Green - Compost
+### Compost
 - Organics
 - Butcher paper
 - Cotton balls
@@ -13,7 +13,7 @@
 - Sawdust
 - Wood chips
 
-### Blue - Recycling
+### Recycling
 - Aerosol
 - Aluminum Foil
 - Boxboard
@@ -25,10 +25,10 @@
 - Plastic (Hard)
 - Plastic Bags
 
-### Grey - Garbage
+### Garbage
 
 
-### Gold - Special
+### Special Collection
 - Hazardous waste
 - Electronics
 - Bicycles
